@@ -7,14 +7,11 @@ O projeto demonstra a aplicação prática de conceitos de **Sistemas Embarcados
 
 ---
 
-## 📺 Demonstração em Vídeo e Foto
+## 📺 Demonstração em Vídeo
 Confira a apresentação do protótipo e o teste de funcionamento no laboratório:
 
 [![Assista ao vídeo](https://img.youtube.com/vi/Afd15EyyC1E/0.jpg)](https://youtu.be/Afd15EyyC1E)
 *Clique na imagem acima para ver a demonstração no YouTube.*
-
-![Protótipo da Bengala](IMG_20260318_004309.jpg)
-
 
 ---
 
